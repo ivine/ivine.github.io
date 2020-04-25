@@ -16,18 +16,18 @@
 		opacity: 1.0;
 	}
 
-		#nav a:before, #nav a:after {
-			display: none;
-		}
+	#nav a:before, #nav a:after {
+		display: none;
+	}
 
-		#nav a span {
-			top: 0;
-			opacity: 1.0;
-		}
+	#nav a span {
+		top: 0;
+		opacity: 1.0;
+	}
 
-			#nav a span:after {
-				display: none;
-			}
+	#nav a span:after {
+		display: none;
+	}
 
 /* Main */
 
@@ -36,11 +36,11 @@
 		box-shadow: none;
 	}
 
-		#main > .panel {
-			background: #ffffff;
-			margin-bottom: 2em;
-		}
+	#main > .panel {
+		background: #ffffff;
+		margin-bottom: 2em;
+	}
 
-			#main > .panel:last-child {
-				margin-bottom: 0;
-			}
+	#main > .panel:last-child {
+		margin-bottom: 0;
+	}
